@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'D:/a_Учеба/JABA/JavaProjects/Lab_3/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/a_Учеба/JABA/JavaProjects/Lab_3/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Lab_3 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Lab_3 1.0-SNAPSHOT API'
+com.myjaba.lab_3
+'D:/a_Учеба/JABA/JavaProjects/Lab_3/src/main/java/com/myjaba/lab_3/Bud.java'
+'D:/a_Учеба/JABA/JavaProjects/Lab_3/src/main/java/com/myjaba/lab_3/ColourOfLeaf.java'
+'D:/a_Учеба/JABA/JavaProjects/Lab_3/src/main/java/com/myjaba/lab_3/Flower.java'
+'D:/a_Учеба/JABA/JavaProjects/Lab_3/src/main/java/com/myjaba/lab_3/Lab_3.java'
+D:\a_Учеба\JABA\JavaProjects\Lab_3\src\main\java = 1666029780440
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\allclasses-index.html = 1666030255482
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\allpackages-index.html = 1666030255486
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\copy.svg = 1666030255558
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\element-list = 1666030255355
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\help-doc.html = 1666030255533
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\index-all.html = 1666030255520
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\index.html = 1666030255523
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\jquery-ui.overrides.css = 1666030255621
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\member-search-index.js = 1666030255493
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\module-search-index.js = 1666030255487
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\overview-tree.html = 1666030255454
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\package-search-index.js = 1666030255489
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\script.js = 1666030255556
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\search.js = 1666030255565
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\stylesheet.css = 1666030255554
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\tag-search-index.js = 1666030255494
+D:\a_Учеба\JABA\JavaProjects\Lab_3\target\site\apidocs\type-search-index.js = 1666030255491

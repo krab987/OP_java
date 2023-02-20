@@ -1,0 +1,51 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/Краб/Desktop/Lab_4/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Краб/Desktop/Lab_4/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Lab_4 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Lab_4 1.0-SNAPSHOT API'
+com.myjaba.lab_4
+'C:/Users/Краб/Desktop/Lab_4/src/main/java/com/myjaba/lab_4/Condition.java'
+'C:/Users/Краб/Desktop/Lab_4/src/main/java/com/myjaba/lab_4/HouseholdAppliances.java'
+'C:/Users/Краб/Desktop/Lab_4/src/main/java/com/myjaba/lab_4/KindsKitchenApp.java'
+'C:/Users/Краб/Desktop/Lab_4/src/main/java/com/myjaba/lab_4/KitchenAppliances.java'
+'C:/Users/Краб/Desktop/Lab_4/src/main/java/com/myjaba/lab_4/Lab_4.java'
+'C:/Users/Краб/Desktop/Lab_4/src/main/java/com/myjaba/lab_4/Menu.java'
+'C:/Users/Краб/Desktop/Lab_4/src/main/java/com/myjaba/lab_4/Status.java'
+C:\Users\Краб\Desktop\Lab_4\src\main\java = 1666031374034
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\allclasses-index.html = 1666046557438
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\allpackages-index.html = 1666046557443
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\copy.svg = 1666046557502
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\element-list = 1666046557314
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\help-doc.html = 1666046557493
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\index-all.html = 1666046557482
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\index.html = 1666046557485
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\jquery-ui.overrides.css = 1666046557553
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\member-search-index.js = 1666046557452
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\module-search-index.js = 1666046557445
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\overview-tree.html = 1666046557412
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\package-search-index.js = 1666046557447
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\script.js = 1666046557500
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\search.js = 1666046557507
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\stylesheet.css = 1666046557496
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\tag-search-index.js = 1666046557454
+C:\Users\Краб\Desktop\Lab_4\target\site\apidocs\type-search-index.js = 1666046557449
